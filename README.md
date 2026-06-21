@@ -1,2 +1,2 @@
 # Arduino-Radar
-Simple ArduinO Radar
+Simple Arduino Radar
